@@ -8,11 +8,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A63FF,100:15E0FF&height=180&section=header&text=Bienvenue%20sur%20mon%20GitHub%20!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
 
+<!-- ========================= -->
+<!-- 💫 ABOUT ME -->
+<!-- ========================= -->
 
 # 💫 About Me  
 Étudiant à Epitech, passionné par l’informatique et motivé par tout ce qui touche au DevOps.  
 Mon objectif : automatiser, optimiser et construire des systèmes fiables.
 
+<!-- ========================= -->
+<!-- 🌐 SOCIALS -->
+<!-- ========================= -->
 
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
@@ -20,6 +26,9 @@ Mon objectif : automatiser, optimiser et construire des systèmes fiables.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alain-corazzini-b81a90359)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:corazzinialain@gmail.com)
 
+<!-- ========================= -->
+<!-- 💻 TECH STACK -->
+<!-- ========================= -->
 
 # 💻 Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +46,9 @@ Mon objectif : automatiser, optimiser et construire des systèmes fiables.
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<!-- ========================= -->
+<!-- 📊 GITHUB STATS -->
+<!-- ========================= -->
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -49,10 +61,48 @@ Mon objectif : automatiser, optimiser et construire des systèmes fiables.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=false&layout=compact)
 
+<!-- ========================= -->
+<!-- 🧱 PROJECTS -->
+<!-- ========================= -->
+
+## 🚀 Projects
+
+<p align="center">
+
+  <!-- ========== PROJET 1 ========== -->
+  <a href="https://github.com/Juyuroto/NomDuProjet1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet1&theme=dark&hide_border=false" />
+  </a>
+
+  <!-- ========== PROJET 2 ========== -->
+  <a href="https://github.com/Juyuroto/NomDuProjet2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet2&theme=dark&hide_border=false" />
+  </a>
+
+</p>
+
+<!-- DUPLIQUE CE BLOCS POUR EN AJOUTER D'AUTRES -->
+
+<p align="center">
+
+  <!-- ========== PROJET 3 ========== -->
+  <a href="https://github.com/Juyuroto/NomDuProjet3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet3&theme=dark&hide_border=false" />
+  </a>
+
+  <!-- ========== PROJET 4 ========== -->
+  <a href="https://github.com/Juyuroto/NomDuProjet4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet4&theme=dark&hide_border=false" />
+  </a>
+
+</p>
+
+<!-- ========================= -->
+<!-- 🏆 GITHUB TROPHIES -->
+<!-- ========================= -->
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ---
 
