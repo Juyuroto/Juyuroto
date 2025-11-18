@@ -70,15 +70,10 @@ Mon objectif : automatiser, optimiser et construire des systèmes fiables.
 <p align="center">
 
   <!-- ========== PROJET 1 ========== -->
-  <a href="https://github.com/Juyuroto/NomDuProjet1">
+  <a href="https://github.com/Juyuroto/My-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet1&theme=dark&hide_border=false" />
   </a>
-
-  <!-- ========== PROJET 2 ========== -->
-  <a href="https://github.com/Juyuroto/NomDuProjet2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=NomDuProjet2&theme=dark&hide_border=false" />
-  </a>
-
+  
 </p>
 
 <!-- DUPLIQUE CE BLOCS POUR EN AJOUTER D'AUTRES -->
