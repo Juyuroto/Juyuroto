@@ -74,7 +74,10 @@ Mon objectif : automatiser, optimiser et construire des systèmes fiables.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=radical&hide_border=false&bg_color=000000&title_color=00E5FF"/>
 </a>
 
-  
+  <!-- ========== PROJET 2 ========== -->
+<a href="https://github.com/Juyuroto/To-Do-List">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=radical&hide_border=false&bg_color=000000&title_color=00E5FF"/>
+</a>
 </p>
 <!-- ========================= -->
 <!-- 🏆 GITHUB TROPHIES -->
