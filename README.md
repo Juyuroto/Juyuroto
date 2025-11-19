@@ -12,7 +12,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4A007D,100:FF00D4" width="80%" />
+
 
 </div>
 
