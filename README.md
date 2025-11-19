@@ -4,13 +4,18 @@
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0011FF,50:00C4FF,100:00FFD5&text=Alain%20Corazzini%20%7C%20DevOps%20&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18" />
+<div align="center">
 
-<!-- Animation typing plus futuriste -->
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Étudiant+à+Epitech;Automatisation+%26+Infrastructure;Always+Learning+%26+Building" />
+<!-- BANNER HACKER TERMINAL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
-<!-- Séparateur lumineux -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:003300&text=⚡%20Alain%20Corazzini%20—%20Cyber%20DevOps%20Engineer%20⚡&fontColor=00FF41&fontSize=30&animation=fadeIn&fontAlignY=50" />
+
+<!-- barre neon -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="90%"/>
+
+</div>
+
 
 <!-- ========================= -->
 <!-- 🌐 SOCIALS -->
