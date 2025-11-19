@@ -52,6 +52,17 @@
 ![DNS](https://img.shields.io/badge/DNS-%239B59B6.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <!-- ========================= -->
+<!-- 📊 GITHUB Certif -->
+<!-- ========================= -->
+
+## 📜 Certifications  
+
+| Certification | Organisation | Statut |
+|--------------|--------------|--------|
+| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ✅ Obtenue |
+
+
+<!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
 <!-- ========================= -->
 
