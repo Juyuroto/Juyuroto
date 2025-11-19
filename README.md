@@ -59,7 +59,7 @@
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
-| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ✅ Obtenue |
+| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
 
 
 <!-- ========================= -->
