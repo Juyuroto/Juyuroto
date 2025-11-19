@@ -4,9 +4,13 @@
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Alain+Corazzini;DevOps+Enthusiast;Passionné+par+l'automatisation;Étudiant+à+Epitech" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0011FF,50:00C4FF,100:00FFD5&text=Alain%20Corazzini%20%7C%20DevOps%20&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A63FF,100:15E0FF&height=180&section=header&text=Bienvenue%20sur%20mon%20GitHub%20!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
+<!-- Animation typing plus futuriste -->
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Étudiant+à+Epitech;Automatisation+%26+Infrastructure;Always+Learning+%26+Building" />
+
+<!-- Séparateur lumineux -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
 
 <!-- ========================= -->
 <!-- 💫 ABOUT ME -->
