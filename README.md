@@ -13,14 +13,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
 
 <!-- ========================= -->
-<!-- 💫 ABOUT ME -->
-<!-- ========================= -->
-
-# 💫 About Me  
-Étudiant à Epitech, passionné par l’informatique et motivé par tout ce qui touche au DevOps.  
-Mon objectif : automatiser, optimiser et construire des systèmes fiables.
-
-<!-- ========================= -->
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
 
