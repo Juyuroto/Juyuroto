@@ -6,13 +6,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0011FF,50:00C4FF,100:00FFD5&text=Alain%20Corazzini%20%7C%20DevOps%20&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:003300,100:00FF41&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=00FF41&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=00FF41" />
 
 <!-- BANNER HACKER TERMINAL -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="80%" />
 
 </div>
 
