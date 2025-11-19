@@ -41,6 +41,15 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Switch Configuration](https://img.shields.io/badge/Switch%20Config-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Router Configuration](https://img.shields.io/badge/Router%20Config-%232498DB.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Network Infrastructure](https://img.shields.io/badge/Network%20Infra-%2300A8E8.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%2300599C.svg?style=for-the-badge&logo=internet-computer&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-%23007FFF.svg?style=for-the-badge&logo=dependabot&logoColor=white)
+![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-%23F39C12.svg?style=for-the-badge&logo=adguard&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-%23E67E22.svg?style=for-the-badge&logo=google&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%239B59B6.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
