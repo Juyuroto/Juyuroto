@@ -122,12 +122,12 @@
 
   <!-- ========== PROJET 1 ========== -->
 <a href="https://github.com/Juyuroto/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=synthwave&hide_border=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc" alt="My Portfolio"/>
 </a>
 
   <!-- ========== PROJET 2 ========== -->
 <a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&hide_border=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc" alt="To-Do List"/>
 </a>
 
 </div>
