@@ -97,24 +97,15 @@
 <div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="32"/> GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juyuroto&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=synthwave&hide_border=true&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff&sideNums=f5d0fe&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=true&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Juyuroto&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10" />
-</div>
-
-<br/>
-
-<!-- Graphique d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=synthwave&bg_color=1a0033&color=d946ef&line=c084fc&point=f0abfc&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
-
+  <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Juyuroto&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&include_all_commits=true&count_private=true" />
+    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Juyuroto&theme=radical&hide_border=true&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff" />
+  </div>
+  <br/>
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=radical&hide_border=true&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&langs_count=8" />
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=high-contrast&bg_color=1a0033&color=d946ef&line=c084fc&point=f0abfc&area=true&hide_border=true&height=180&custom_title=Activity%20Graph" />
+  </div>
 </div>
 
 <!-- ========================= -->
@@ -123,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
+# <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
 <p align="center">
   <!-- ========== PROJET 1 ========== -->
 <a href="https://github.com/Juyuroto/My-Portfolio">
