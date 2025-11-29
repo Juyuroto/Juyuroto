@@ -22,18 +22,10 @@
 
 # <img src="https://img.icons8.com/color/48/000000/connection-sync.png" width="32"/> Socials
 
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/QpwP9f7q)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/alain.crzi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alain-corazzini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:corazzinialain@gmail.com)
-
-<br/>
-
-### 📫 Contactez-moi pour des collaborations, opportunités ou simplement pour discuter tech !
-
-</div>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-corazzini)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:corazzinialain@gmail.com)
 
 </div>
 
@@ -116,13 +108,12 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juyuroto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=9932CC&text_color=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Juyuroto&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&layout=compact&border_radius=10&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&layout=compact&border_radius=10&langs_count=8" />
 </div>
 
 </div>
