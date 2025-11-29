@@ -79,7 +79,7 @@
 
 # 📊 GitHub Stats  
 <!-- Statistiques générales -->
-![Juyuroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs)
+![Juyuroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
 
 <!-- Top langages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&layout=compact&theme=dark)
@@ -90,8 +90,9 @@
 <!-- Trophées GitHub -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Graph de contribution dynamique -->
+<!-- Graph de contribution -->
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Juyuroto&theme=react-dark&hide_border=false)
+
 
 
 <!-- ========================= -->
