@@ -74,7 +74,7 @@
 
 ### 🎖️ Badge obtenu : First Four
 <!-- Badge TryHackMe -->
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png)](https://tryhackme.com/p/Juyuroto)
+[![TryHackMe - First Four](https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png)](https://tryhackme.com/p/Juyuroto) First Four
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
