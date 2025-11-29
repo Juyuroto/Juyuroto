@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
+# <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
 <p align="center">
   <!-- ========== PROJET 1 ========== -->
 <a href="https://github.com/Juyuroto/My-Portfolio">
