@@ -66,6 +66,19 @@
 |--------------|--------------|--------|
 | ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
 
+<!-- ========================= -->
+<!-- Badge -->
+<!-- ========================= -->
+
+## Cybersecurity
+
+### 🎖️ Badge obtenu : First Four  
+<img src="https://assets.tryhackme.com/badges/first-four.png" alt="First Four Badge" width="120">
+
+### 🔰 Profil TryHackMe  
+<a href="https://tryhackme.com/p/Juyuroto">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png" alt="TryHackMe Profile Badge" width="200"/>
+</a>
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
