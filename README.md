@@ -1,16 +1,16 @@
-<div align="center">
-
 <!-- ========================= -->
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8B008B,50:9932CC,100:FF1493&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=FFFFFF&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=FFFFFF" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0033,50:6b0f9e,100:d946ef&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=f5d0fe&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=e9d5ff" />
 
 <!-- BANNER HACKER TERMINAL -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=FF1493&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=d946ef&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8B008B,33:9932CC,66:DA70D6,100:FF1493" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:a855f7,33:d946ef,66:f0abfc,100:fae8ff" width="80%" />
 
 </div>
 
@@ -22,32 +22,10 @@
 
 # <img src="https://img.icons8.com/color/48/000000/connection-sync.png" width="32"/> Socials
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/QpwP9f7q)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/alain.crzi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alain-corazzini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:corazzinialain@gmail.com)
-
-<br/>
-
-### 📫 Contactez-moi pour des collaborations, opportunités ou simplement pour discuter tech !
-
-</div>
-
-<!-- ========================= -->
-<!-- 🛡️ CYBERSECURITY & LEARNING -->
-<!-- ========================= -->
-
-<div align="center">
-
-# <img src="https://img.icons8.com/color/48/000000/security-checked.png" width="32"/> Cybersecurity & Learning
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Juyuroto)
-
-<br/>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png" alt="TryHackMe Badge" width="250"/>
-
-### 🎯 Parcours d'apprentissage actif en cybersécurité et pentesting
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-corazzini)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:corazzinialain@gmail.com)
 
 </div>
 
@@ -75,7 +53,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### <img src="https://img.icons8.com/color/48/000000/docker.png" width="32"/> DevOps & Tools
-
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -121,16 +98,15 @@
 
 # <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="32"/> GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juyuroto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=9932CC&text_color=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Juyuroto&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&border_radius=10" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc)
 
 <br/>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&layout=compact&border_radius=10&langs_count=8" />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=synthwave&hide_border=false&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff&sideNums=f5d0fe)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=false&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe)
 
 </div>
 
@@ -146,15 +122,13 @@
 
   <!-- ========== PROJET 1 ========== -->
 <a href="https://github.com/Juyuroto/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=9932CC&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=synthwave&hide_border=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc"/>
 </a>
 
   <!-- ========== PROJET 2 ========== -->
 <a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=9932CC&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&hide_border=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc"/>
 </a>
-
-</p>
 
 </div>
 
@@ -166,7 +140,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc)
 
 ---
 
