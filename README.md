@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:003300,100:00FF41&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=00FF41&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=00FF41" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8B008B,50:9932CC,100:FF1493&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=FFFFFF&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=FFFFFF" />
 
 <!-- BANNER HACKER TERMINAL -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=FF1493&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:5865F2,33:E4405F,66:0A66C2,100:D14836" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8B008B,33:9932CC,66:DA70D6,100:FF1493" width="80%" />
 
 </div>
 
@@ -106,15 +106,17 @@
 
 # <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="32"/> GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juyuroto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=9932CC&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&border_radius=10" />
+</div>
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=dark&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&layout=compact&border_radius=10&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&bg_color=0D1117&color=FFFFFF&line=FF1493&point=9932CC&area=true&hide_border=true&radius=10" />
+</div>
 
 </div>
 
