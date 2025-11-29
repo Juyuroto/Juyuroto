@@ -78,12 +78,16 @@
 <!-- ========================= -->
 
 # 📊 GitHub Stats  
-<!-- Statistiques générales -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juruyoto&show_icons=true&locale=en&layout=compact" alt="Juruyoto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juruyoto&show_icons=true&locale=en" alt="Juruyoto" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juruyoto&" alt="Juruyoto" /></p>
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=false&layout=compact)
 
 <!-- ========================= -->
 <!-- 🧱 PROJECTS -->
