@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7046b078-6a97-47e0-9852-2b7eb3becd8b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e5dd2203-a689-497d-a494-adccdb3b606b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/edd76125-a75c-47bc-a0a9-08c2f6a0c9c8" /><div align="center">
-
 <!-- ========================= -->
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
