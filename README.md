@@ -1,16 +1,16 @@
-<div align="center">
-
 <!-- ========================= -->
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Alain%20Corazzini&fontColor=fff&fontSize=80&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation%20Specialist&descAlignY=55&descSize=20&animation=twinkling" />
+<div align="center">
 
-<!-- BANNER TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💻+Building+the+Future+with+Code+%26+Infrastructure;🚀+Automation+•+Cloud+•+Networking;⚡+Passionate+about+DevOps+%26+System+Architecture" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:003300,100:00FF41&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=00FF41&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=00FF41" />
 
-<!-- Séparateur animé -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- BANNER HACKER TERMINAL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
+
+<!-- Séparateur lumineux -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:5865F2,33:E4405F,66:0A66C2,100:D14836" width="80%" />
 
 </div>
 
