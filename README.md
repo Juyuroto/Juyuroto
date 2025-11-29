@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7046b078-6a97-47e0-9852-2b7eb3becd8b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e5dd2203-a689-497d-a494-adccdb3b606b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/edd76125-a75c-47bc-a0a9-08c2f6a0c9c8" /><div align="center">
-
 <!-- ========================= -->
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
@@ -21,7 +19,7 @@
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
 
-# <img src="https://img.icons8.com/fluency/48/000000/globe.png" width="32"/> Socials
+# <img src="https://img.icons8.com/color/48/000000/connection-sync.png" width="32"/> Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
