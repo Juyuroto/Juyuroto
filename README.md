@@ -21,7 +21,7 @@
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
 
-# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" width="24" /> Socials
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="28" style="color:#5865F2;" /> Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
@@ -34,7 +34,7 @@
 
 # <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" width="24" /> Tech Stack & Skills
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> Frontend
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="28" style="color:#E34F26;" /> Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,14 +42,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> Backend & Languages
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="28" style="color:#3776AB;" /> Backend & Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="24" /> DevOps & Tools
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="28" style="color:#0db7ed;" /> DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -58,13 +58,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=for-the-badge&logo=ccna&logoColor=white)
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/blender.svg" width="24" /> Design & Creative
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/blender.svg" width="28" style="color:#F5792A;" /> Design & Creative
 
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/networkx.svg" width="24" /> Networking & Infrastructure
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/networknt.svg" width="28" style="color:#007FFF;" /> Networking & Infrastructure
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
@@ -73,10 +73,10 @@
 
 
 <!-- ========================= -->
-<!-- 📊 GITHUB Certif -->
+<!-- 📜 GITHUB Certif -->
 <!-- ========================= -->
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg" width="24" /> Certifications
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg" width="28" style="color:#049FD9;" /> Certifications
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
@@ -93,7 +93,7 @@
 <!-- 📊 GITHUB STATS -->
 <!-- ========================= -->
 
-# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" /> GitHub Stats
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" width="28" style="color:#2088FF;" /> GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -109,7 +109,7 @@
 <!-- 🧱 PROJECTS -->
 <!-- ========================= -->
 
-# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" /> Projects
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rocketdotchat.svg" width="28" style="color:#FF4500;" /> Projects
 
 <p align="center">
 
@@ -127,7 +127,7 @@
 <!-- 🏆 GITHUB TROPHIES -->
 <!-- ========================= -->
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" /> GitHub Trophies
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitpod.svg" width="28" style="color:#FF6C37;" /> GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
