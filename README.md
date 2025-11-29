@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7046b078-6a97-47e0-9852-2b7eb3becd8b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e5dd2203-a689-497d-a494-adccdb3b606b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/edd76125-a75c-47bc-a0a9-08c2f6a0c9c8" /><div align="center">
+
 <!-- ========================= -->
 <!-- 🎨 BANNIÈRE PERSONNALISÉE -->
 <!-- ========================= -->
@@ -14,10 +16,11 @@
 
 </div>
 
-
 <!-- ========================= -->
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
+
+<div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/connection-sync.png" width="32"/> Socials
 
@@ -26,9 +29,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-corazzini)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:corazzinialain@gmail.com)
 
+</div>
+
 <!-- ========================= -->
 <!-- 💻 TECH STACK -->
 <!-- ========================= -->
+
+<div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/code.png" width="32"/> Tech Stack & Skills
 
@@ -70,16 +77,21 @@
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-007FFF?style=for-the-badge&logo=dependabot&logoColor=white)
 
+</div>
 
 <!-- ========================= -->
 <!-- 📜 GITHUB Certif -->
 <!-- ========================= -->
+
+<div align="center">
 
 ## <img src="https://img.icons8.com/color/48/000000/certificate.png" width="32"/> Certifications
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
 | ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
+
+</div>
 
 <!-- ========================= -->
 <!-- Badge -->
@@ -91,6 +103,8 @@
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
 <!-- ========================= -->
+
+<div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="32"/> GitHub Stats
 
@@ -104,9 +118,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=false&layout=compact)
 
+</div>
+
 <!-- ========================= -->
 <!-- 🧱 PROJECTS -->
 <!-- ========================= -->
+
+<div align="center">
 
 # <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
 
@@ -121,10 +139,14 @@
 <a href="https://github.com/Juyuroto/To-Do-List">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=radical&hide_border=false&bg_color=000000&title_color=00E5FF"/>
 </a>
-</p>
+
+</div>
+
 <!-- ========================= -->
 <!-- 🏆 GITHUB TROPHIES -->
 <!-- ========================= -->
+
+<div align="center">
 
 ## <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
 
