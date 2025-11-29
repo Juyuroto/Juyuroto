@@ -21,7 +21,7 @@
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
 
-## 🌐 Socials  
+## Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-corazzini)
@@ -31,28 +31,35 @@
 <!-- 💻 TECH STACK -->
 <!-- ========================= -->
 
-# 💻 Tech Stack  
+# Tech Stack  
 
-### 🖥️ Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🐍 Backend & Langages
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> Backend & Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=for-the-badge&logo=ccna&logoColor=white)
 
-### 🌐 Networking & Infrastructure
+### Design & Creative
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
@@ -63,7 +70,7 @@
 <!-- 📊 GITHUB Certif -->
 <!-- ========================= -->
 
-## 📜 Certifications  
+## Certifications  
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
@@ -77,7 +84,7 @@
 <!-- 📊 GITHUB STATS -->
 <!-- ========================= -->
 
-# 📊 GitHub Stats  
+# GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -93,7 +100,7 @@
 <!-- 🧱 PROJECTS -->
 <!-- ========================= -->
 
-## 🚀 Projects
+## Projects
 
 <p align="center">
 
@@ -111,7 +118,7 @@
 <!-- 🏆 GITHUB TROPHIES -->
 <!-- ========================= -->
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
