@@ -98,15 +98,22 @@
 
 # <img src="https://img.icons8.com/color/48/000000/bar-chart.png" width="32"/> GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juyuroto&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=synthwave&hide_border=true&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff&sideNums=f5d0fe&border_radius=10" />
+</div>
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=synthwave&hide_border=false&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff&sideNums=f5d0fe)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=true&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Juyuroto&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10" />
+</div>
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=false&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe)
+<!-- Graphique d'activité -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=synthwave&bg_color=1a0033&color=d946ef&line=c084fc&point=f0abfc&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
 
 </div>
 
@@ -118,17 +125,17 @@
 
 # <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
 
-<p align="center">
+### 🎨 My Portfolio
+**Infrastructure réseau complète avec pfSense, VLANs et serveurs**  
+[![Repo](https://img.shields.io/badge/GitHub-My--Portfolio-d946ef?style=for-the-badge&logo=github)](https://github.com/Juyuroto/My-Portfolio)
+![Stars](https://img.shields.io/github/stars/Juyuroto/My-Portfolio?style=social)
 
-  <!-- ========== PROJET 1 ========== -->
-<a href="https://github.com/Juyuroto/My-Portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="My Portfolio"/>
-</a>
+---
 
-  <!-- ========== PROJET 2 ========== -->
-<a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="To-Do List"/>
-</a>
+### ✅ To-Do List
+**Application React avec API Express et Node.js**  
+[![Repo](https://img.shields.io/badge/GitHub-To--Do--List-d946ef?style=for-the-badge&logo=github)](https://github.com/Juyuroto/To-Do-List)
+![Stars](https://img.shields.io/github/stars/Juyuroto/To-Do-List?style=social)
 
 </div>
 
