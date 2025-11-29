@@ -123,21 +123,18 @@
 
 <div align="center">
 
-# <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
-
-### 🎨 My Portfolio
-**Infrastructure réseau complète avec pfSense, VLANs et serveurs**  
-[![Repo](https://img.shields.io/badge/GitHub-My--Portfolio-d946ef?style=for-the-badge&logo=github)](https://github.com/Juyuroto/My-Portfolio)
-![Stars](https://img.shields.io/github/stars/Juyuroto/My-Portfolio?style=social)
-
----
-
-### ✅ To-Do List
-**Application React avec API Express et Node.js**  
-[![Repo](https://img.shields.io/badge/GitHub-To--Do--List-d946ef?style=for-the-badge&logo=github)](https://github.com/Juyuroto/To-Do-List)
-![Stars](https://img.shields.io/github/stars/Juyuroto/To-Do-List?style=social)
-
+<img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
+<p align="center">
+  <!-- ========== PROJET 1 ========== -->
+<a href="https://github.com/Juyuroto/My-Portfolio">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=My-Portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="My Portfolio"/>
+</a>
+  <!-- ========== PROJET 2 ========== -->
+<a href="https://github.com/Juyuroto/To-Do-List">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="To-Do List"/>
+</a>
 </div>
+
 
 <!-- ========================= -->
 <!-- 🏆 GITHUB TROPHIES -->
