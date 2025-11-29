@@ -82,7 +82,7 @@
 
 <div align="center">
 
-## <img src="https://img.icons8.com/color/48/000000/certificate.png" width="32"/> Certifications
+# <img src="https://img.icons8.com/color/48/000000/certificate.png" width="32"/> Certifications
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-## <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
+# <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc)
 
