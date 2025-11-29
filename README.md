@@ -79,21 +79,11 @@
 
 # 📊 GitHub Stats  
 <!-- Statistiques générales -->
-![Juyuroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juyuroto&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juruyoto&show_icons=true&locale=en&layout=compact" alt="juruyoto" /></p>
 
-<!-- Top langages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyuroto&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juruyoto&show_icons=true&locale=en" alt="juruyoto" /></p>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juyuroto&theme=dark&hide_border=false)
-
-<!-- Trophées GitHub -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Graph de contribution -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Juyuroto&theme=react-dark&hide_border=false)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juruyoto&" alt="juruyoto" /></p>
 
 <!-- ========================= -->
 <!-- 🧱 PROJECTS -->
