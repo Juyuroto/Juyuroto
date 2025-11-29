@@ -73,12 +73,6 @@
 ## Cybersecurity
 
 ### 🎖️ Badge obtenu : First Four  
-<img src="https://assets.tryhackme.com/badges/first-four.png" alt="First Four Badge" width="120">
-
-### 🔰 Profil TryHackMe  
-<a href="https://tryhackme.com/p/Juyuroto">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png" alt="TryHackMe Profile Badge" width="200"/>
-</a>
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
