@@ -107,7 +107,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=true&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Juyuroto&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10" />
 </div>
 
 <br/>
