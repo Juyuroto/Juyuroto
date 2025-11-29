@@ -32,29 +32,32 @@
 <!-- ========================= -->
 
 # 💻 Tech Stack  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Switch Configuration](https://img.shields.io/badge/Switch%20Config-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Router Configuration](https://img.shields.io/badge/Router%20Config-%232498DB.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Network Infrastructure](https://img.shields.io/badge/Network%20Infra-%2300A8E8.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%2300599C.svg?style=for-the-badge&logo=internet-computer&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-%23007FFF.svg?style=for-the-badge&logo=dependabot&logoColor=white)
-![Routing Protocols](https://img.shields.io/badge/Routing%20Protocols-%23F39C12.svg?style=for-the-badge&logo=adguard&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-%23E67E22.svg?style=for-the-badge&logo=google&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-%239B59B6.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🐍 Backend & Langages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🌐 Networking & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-007FFF?style=for-the-badge&logo=dependabot&logoColor=white)
+
 
 <!-- ========================= -->
 <!-- 📊 GITHUB Certif -->
@@ -69,12 +72,6 @@
 <!-- ========================= -->
 <!-- Badge -->
 <!-- ========================= -->
-
-## Cybersecurity
-
-### 🎖️ Badge obtenu : First Four
-<!-- Badge TryHackMe -->
-[![TryHackMe - First Four](https://tryhackme-badges.s3.amazonaws.com/Juyuroto.png)](https://tryhackme.com/p/Juyuroto) First Four
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
