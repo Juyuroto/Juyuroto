@@ -125,8 +125,8 @@
 # <img src="https://img.icons8.com/color/48/000000/rocket.png" width="32"/> Projects
 <p align="center">
   <!-- ========== PROJET 1 ========== -->
-<a href="https://github.com/Juyuroto/My-Portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web hosting portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="My Portfolio"/>
+<a href="https://github.com/Juyuroto/web-hosting-portfolio">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="My Portfolio"/>
 </a>
   <!-- ========== PROJET 2 ========== -->
 <a href="https://github.com/Juyuroto/To-Do-List">
