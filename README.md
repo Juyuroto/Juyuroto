@@ -132,8 +132,11 @@
 <a href="https://github.com/Juyuroto/To-Do-List">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="To-Do List"/>
 </a>
-</div>
 
+<a href="https://github.com/Juyuroto/Linux-Fundamentals">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="To-Do List"/>
+</a>
+</div>
 
 <!-- ========================= -->
 <!-- 🏆 GITHUB TROPHIES -->
