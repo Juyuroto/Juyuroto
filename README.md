@@ -146,8 +146,6 @@
 
 # <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=dracula
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=dracula)
 
 </div>
