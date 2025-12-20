@@ -146,6 +146,6 @@
 
 # <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=radical&no-frame=false&no-bg=false&margin-w=15&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=monokai&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
