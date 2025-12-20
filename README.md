@@ -15,6 +15,24 @@
 </div>
 
 <!-- ========================= -->
+<!-- 🙆 À propos -->
+<!-- ========================= -->
+
+<div align="center">
+
+# <img src="https://img.icons8.com/color/48/000000/user.png" width="32"/> À propos
+
+<p align="center">
+Étudiant passionné en DevOps & Network Administrator, spécialisé dans l'automatisation, le cloud et les infrastructures systèmes.<br/>
+Je construis des solutions efficaces qui allient développement et opérations.
+</p>
+
+**Objectif actuel :** Devenir DevOps Engineer<br/>
+**Focus :** Automatisation • CI/CD • Containerisation • Networking
+
+</div>
+
+<!-- ========================= -->
 <!-- 🌐 SOCIALS -->
 <!-- ========================= -->
 
@@ -136,16 +154,4 @@
 <a href="https://github.com/Juyuroto/Linux-Fundamentals">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" alt="To-Do List"/>
 </a>
-</div>
-
-<!-- ========================= -->
-<!-- 🏆 GITHUB TROPHIES -->
-<!-- ========================= -->
-
-<div align="center">
-
-# <img src="https://img.icons8.com/color/48/000000/trophy.png" width="32"/> GitHub Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Juyuroto&theme=dracula&no-frame=false&no-bg=false&margin-w=15&row=2&column=4)
-
 </div>
