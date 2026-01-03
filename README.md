@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0033,50:6b0f9e,100:d946ef&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=f5d0fe&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=e9d5ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:1a1a1a,100:2d2d2d&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=cccccc" />
 
 <!-- BANNER HACKER TERMINAL -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=d946ef&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=ffffff&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:a855f7,33:d946ef,66:f0abfc,100:fae8ff" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:333333,33:555555,66:777777,100:999999" width="80%" />
 
 </div>
 
@@ -118,24 +118,24 @@ Je construis des solutions efficaces qui allient développement et opérations.
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juyuroto&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&icon_color=c084fc&border_radius=10&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=synthwave&hide_border=true&background=1a0033&ring=d946ef&fire=f0abfc&currStreakLabel=f5d0fe&sideLabels=e9d5ff&currStreakNum=fae8ff&sideNums=f5d0fe&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juyuroto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=synthwave&hide_border=true&layout=compact&bg_color=1a0033&title_color=d946ef&text_color=f5d0fe&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=synthwave&bg_color=1a0033&color=d946ef&line=c084fc&point=f0abfc&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
 
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Juyuroto&color=d946ef&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-200+-c084fc?style=for-the-badge&logo=git&logoColor=white)
-![Projects](https://img.shields.io/badge/Projets%20terminés-5+-a855f7?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Learning](https://img.shields.io/badge/En%20apprentissage-Kubernetes%20%7C%20Ansible-9333ea?style=for-the-badge&logo=continente&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Juyuroto&color=333333&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-200+-555555?style=for-the-badge&logo=git&logoColor=white)
+![Projects](https://img.shields.io/badge/Projets%20terminés-5+-666666?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Learning](https://img.shields.io/badge/En%20apprentissage-Kubernetes%20%7C%20Ansible-777777?style=for-the-badge&logo=continente&logoColor=white)
 
 </div>
 
@@ -163,7 +163,7 @@ Portfolio personnel avec hébergement personnalisé et configuration Apache
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <a href="https://github.com/Juyuroto/web-hosting-portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
 </a>
 
 </td>
@@ -179,7 +179,7 @@ Application React moderne avec gestion d'état et interface responsive
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
 </a>
 
 </td>
@@ -197,10 +197,28 @@ Documentation système et scripts d'administration Linux
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 <a href="https://github.com/Juyuroto/Linux-Fundamentals">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=synthwave&bg_color=1a0033&title_color=d946ef&icon_color=c084fc&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
 </a>
 
 </td>
+<td width="50%" valign="top">
+
+### Update HP-Proliant DL380p Gen8
+Guide de mise à jour BIOS et firmware
+
+**Tech Stack:**
+
+![HP](https://img.shields.io/badge/HP-0096D6?style=flat-square&logo=hp&logoColor=white)
+![Server](https://img.shields.io/badge/Server-FF6F00?style=flat-square&logo=serverfault&logoColor=white)
+![BIOS](https://img.shields.io/badge/BIOS-121011?style=flat-square&logo=hack-the-box&logoColor=white)
+
+<a href="https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Update-HP-Proliant-DL380p-Gen8&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+</a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Prochain Projet
@@ -213,7 +231,10 @@ En cours de développement...
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 <br/><br/>
-<img src="https://img.shields.io/badge/Coming%20Soon-d946ef?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coming%20Soon-333333?style=for-the-badge" />
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -221,8 +242,7 @@ En cours de développement...
 
 <div align="center">
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Juyuroto&color=d946ef&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Juyuroto&color=333333&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Merci de votre visite !**
 
