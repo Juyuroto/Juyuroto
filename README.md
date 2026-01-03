@@ -106,6 +106,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
 | ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
+| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ En cours |
 
 </div>
 
