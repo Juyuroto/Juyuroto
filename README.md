@@ -78,6 +78,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=for-the-badge&logo=ccna&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> Design & Creative
 
@@ -91,6 +92,8 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-007FFF?style=for-the-badge&logo=dependabot&logoColor=white)
+![D-Link](https://img.shields.io/badge/D--Link-FFB900?style=for-the-badge&logo=d-link&logoColor=black)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
 </div>
 
@@ -105,8 +108,8 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
-| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
-| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ En cours |
+| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours.. |
+| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ Prochainement.. |
 
 </div>
 
