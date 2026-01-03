@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1a1a,50:2d2d2d,100:404040&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=e0e0e0" />
 
 <!-- BANNER HACKER TERMINAL -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=ffffff&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
 <!-- Séparateur lumineux -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:404040,33:606060,66:808080,100:a0a0a0" width="80%" />
