@@ -78,6 +78,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=for-the-badge&logo=ccna&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> Design & Creative
@@ -108,8 +109,8 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
-| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours.. |
-| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ Prochainement.. |
+| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
+| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ En cours |
 
 </div>
 
@@ -139,7 +140,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Juyuroto&color=2d333b&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/badge/Commits-200+-3d444d?style=for-the-badge&logo=git&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projets%20terminés-5+-444c56?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Learning](https://img.shields.io/badge/En%20apprentissage-Docker%20%7C%20Ansible-4d5663?style=for-the-badge&logo=continente&logoColor=white)
+![Learning](https://img.shields.io/badge/En%20apprentissage-Kubernetes%20%7C%20Ansible-4d5663?style=for-the-badge&logo=continente&logoColor=white)
 
 </div>
 
@@ -222,6 +223,23 @@ Guide de mise à jour BIOS et firmware
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Zsh Setup Guide for Debian
+Guide de configuration Zsh pour Debian
+
+**Tech Stack:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+<a href="https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Zsh-Setup-Guide-for-Debian&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+</a>
+
+</td>
 <tr>
 <td width="50%" valign="top">
 
