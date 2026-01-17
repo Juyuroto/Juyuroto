@@ -145,7 +145,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 </div>
 
 <!-- ========================= -->
-<!-- 🚀 PROJETS -->
+<!-- 🚀 PROJETS PHARES -->
 <!-- ========================= -->
 
 <div align="center">
@@ -155,98 +155,124 @@ Je construis des solutions efficaces qui allient développement et opérations.
 </div>
 
 <table align="center" width="100%">
+
+<!-- ROW 1 -->
 <tr>
 <td width="50%" valign="top">
 
 ### Web Hosting Portfolio
 Portfolio personnel avec hébergement personnalisé et configuration Apache
 
-**Tech Stack:**
+**Tech Stack :**
 
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <a href="https://github.com/Juyuroto/web-hosting-portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### To-Do List
-Application React moderne avec gestion d'état et interface responsive
+Application React moderne avec gestion d’état et interface responsive
 
-**Tech Stack:**
+**Tech Stack :**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
 </a>
 
 </td>
 </tr>
+
+<!-- ROW 2 -->
 <tr>
 <td width="50%" valign="top">
 
 ### Linux Fundamentals
-Documentation système et scripts d'administration Linux
+Documentation système et scripts d’administration Linux
 
-**Tech Stack:**
+**Tech Stack :**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 <a href="https://github.com/Juyuroto/Linux-Fundamentals">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Update HP-Proliant DL380p Gen8
-Guide de mise à jour BIOS et firmware
+### HP ProLiant DL380p Gen8
+Guide de mise à jour BIOS & firmware serveur
 
-**Tech Stack:**
+**Tech Stack :**
 
 ![HP](https://img.shields.io/badge/HP-0096D6?style=flat-square&logo=hp&logoColor=white)
 ![Server](https://img.shields.io/badge/Server-FF6F00?style=flat-square&logo=serverfault&logoColor=white)
 ![BIOS](https://img.shields.io/badge/BIOS-121011?style=flat-square&logo=hack-the-box&logoColor=white)
 
 <a href="https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Update-HP-Proliant-DL380p-Gen8&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Update-HP-Proliant-DL380p-Gen8&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
 </a>
 
 </td>
 </tr>
+
+<!-- ROW 3 -->
 <tr>
 <td width="50%" valign="top">
 
-### Zsh Setup Guide for Debian
-Guide de configuration Zsh pour Debian
+### Python Projects Hub
+Collection de projets Python (scripts, mini-apps, automatisation)
 
-**Tech Stack:**
+**Tech Stack :**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+<a href="https://github.com/Juyuroto/Python-Projects-Hub">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Python-Projects-Hub&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Zsh Setup Guide (Debian)
+Configuration complète de Zsh pour Debian
+
+**Tech Stack :**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
 <a href="https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Zsh-Setup-Guide-for-Debian&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Zsh-Setup-Guide-for-Debian&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
 </a>
 
 </td>
+</tr>
+
+<!-- ROW 4 -->
 <tr>
 <td width="50%" valign="top">
 
 ### Prochain Projet
-En cours de développement...
+En cours de développement…
 
-**Tech Stack à venir:**
+**Tech Stack à venir :**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -256,11 +282,13 @@ En cours de développement...
 <img src="https://img.shields.io/badge/Coming%20Soon-2d333b?style=for-the-badge" />
 
 </td>
-<td width="50%" valign="top">
 
+<td width="50%" valign="top">
 </td>
 </tr>
+
 </table>
+
 
 <div align="center">
 
