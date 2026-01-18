@@ -109,8 +109,8 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 | Certification | Organisation | Statut |
 |--------------|--------------|--------|
-| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⌛ En cours |
-| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⌛ En cours |
+| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⏛ En cours |
+| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⏛ En cours |
 
 </div>
 
@@ -178,7 +178,7 @@ Portfolio personnel avec hébergement personnalisé et configuration Apache
 <td width="50%" valign="top">
 
 ### To-Do List
-Application React moderne avec gestion d’état et interface responsive
+Application React moderne avec gestion d'état et interface responsive
 
 **Tech Stack :**
 
@@ -197,8 +197,27 @@ Application React moderne avec gestion d’état et interface responsive
 <tr>
 <td width="50%" valign="top">
 
+### CloudVault
+Solution de stockage cloud sécurisée avec chiffrement et interface moderne
+
+**Tech Stack :**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+
+<a href="https://github.com/Juyuroto/CloudVault">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=CloudVault&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### Linux Fundamentals
-Documentation système et scripts d’administration Linux
+Documentation système et scripts d'administration Linux
 
 **Tech Stack :**
 
@@ -211,7 +230,10 @@ Documentation système et scripts d’administration Linux
 </a>
 
 </td>
+</tr>
 
+<!-- ROW 3 -->
+<tr>
 <td width="50%" valign="top">
 
 ### HP ProLiant DL380p Gen8
@@ -228,10 +250,7 @@ Guide de mise à jour BIOS & firmware serveur
 </a>
 
 </td>
-</tr>
 
-<!-- ROW 3 -->
-<tr>
 <td width="50%" valign="top">
 
 ### Python Projects Hub
@@ -246,7 +265,10 @@ Collection de projets Python (scripts, mini-apps, automatisation)
 </a>
 
 </td>
+</tr>
 
+<!-- ROW 4 -->
+<tr>
 <td width="50%" valign="top">
 
 ### Zsh Setup Guide (Debian)
@@ -263,10 +285,7 @@ Configuration complète de Zsh pour Debian
 </a>
 
 </td>
-</tr>
 
-<!-- ROW 4 -->
-<tr>
 <td width="50%" valign="top">
 
 ### Prochain Projet
@@ -281,9 +300,6 @@ En cours de développement…
 <br/><br/>
 <img src="https://img.shields.io/badge/Coming%20Soon-2d333b?style=for-the-badge" />
 
-</td>
-
-<td width="50%" valign="top">
 </td>
 </tr>
 
