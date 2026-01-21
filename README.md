@@ -161,6 +161,9 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <td width="50%" valign="top">
 
 ### Web Hosting Portfolio
+
+![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
+
 Portfolio personnel avec hébergement personnalisé et configuration Apache
 
 **Tech Stack :**
@@ -178,6 +181,9 @@ Portfolio personnel avec hébergement personnalisé et configuration Apache
 <td width="50%" valign="top">
 
 ### To-Do List
+
+![Status](https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
+
 Application React moderne avec gestion d'état et interface responsive
 
 **Tech Stack :**
@@ -198,6 +204,9 @@ Application React moderne avec gestion d'état et interface responsive
 <td width="50%" valign="top">
 
 ### CloudVault
+
+![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
+
 Solution de stockage cloud sécurisée avec chiffrement et interface moderne
 
 **Tech Stack :**
@@ -217,6 +226,9 @@ Solution de stockage cloud sécurisée avec chiffrement et interface moderne
 <td width="50%" valign="top">
 
 ### Linux Fundamentals
+
+![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
+
 Documentation système et scripts d'administration Linux
 
 **Tech Stack :**
@@ -237,6 +249,9 @@ Documentation système et scripts d'administration Linux
 <td width="50%" valign="top">
 
 ### HP ProLiant DL380p Gen8
+
+![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
+
 Guide de mise à jour BIOS & firmware serveur
 
 **Tech Stack :**
@@ -254,6 +269,9 @@ Guide de mise à jour BIOS & firmware serveur
 <td width="50%" valign="top">
 
 ### Python Projects Hub
+
+![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
+
 Collection de projets Python (scripts, mini-apps, automatisation)
 
 **Tech Stack :**
@@ -272,6 +290,9 @@ Collection de projets Python (scripts, mini-apps, automatisation)
 <td width="50%" valign="top">
 
 ### Zsh Setup Guide (Debian)
+
+![Status](https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
+
 Configuration complète de Zsh pour Debian
 
 **Tech Stack :**
@@ -289,6 +310,9 @@ Configuration complète de Zsh pour Debian
 <td width="50%" valign="top">
 
 ### Prochain Projet
+
+![Status](https://img.shields.io/badge/Status-En%20préparation-6f42c1?style=flat-square&logo=rocket&logoColor=white)
+
 En cours de développement…
 
 **Tech Stack à venir :**
