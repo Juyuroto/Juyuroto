@@ -1,44 +1,34 @@
-<!-- ========================= -->
-<!-- 🎨 BANNIÈRE PERSONNALISÉE -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1a1a,50:2d2d2d,100:404040&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=e0e0e0" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=161b22&text=Alain%20Corazzini%20%7C%20DevOps&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Automatisation%20•%20Cloud%20•%20Systèmes&descAlignY=60&descSize=18&descColor=e0e0e0" />
 
-<!-- BANNER HACKER TERMINAL -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=78133A&center=true&vCenter=true&width=800&lines=>+Booting+Alain+Corazzini+System...;>+User:+DevOps_Student;>+Access+Granted.;>+Welcome+to+the+Mainframe." />
 
-<!-- Séparateur lumineux -->
+<br/><br/>
+<a href="https://alain-corazzini.fr" target="_blank">
+  <img src="https://img.shields.io/badge/VISITER_MON_PORTFOLIO-78133A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:404040,33:606060,66:808080,100:a0a0a0" width="80%" />
 
 </div>
 
-<!-- ========================= -->
-<!-- 🙆 À propos -->
-<!-- ========================= -->
-
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> À propos
+# À propos
 
-<p align="center">
 Étudiant passionné en DevOps & Network Administrator, spécialisé dans l'automatisation, le cloud et les infrastructures systèmes.<br/>
 Je construis des solutions efficaces qui allient développement et opérations.
-</p>
 
 **Objectif actuel :** Devenir DevOps Engineer<br/>
 **Focus :** Automatisation • CI/CD • Containerisation • Networking
 
 </div>
 
-<!-- ========================= -->
-<!-- 🌐 SOCIALS -->
-<!-- ========================= -->
-
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" /> Socials
+# Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alain.crzi)
@@ -47,288 +37,161 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 </div>
 
-<!-- ========================= -->
-<!-- 💻 TECH STACK -->
-<!-- ========================= -->
-
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" /> Tech Stack & Skills
+# Tech Stack & Skills
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Frontend
-
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Backend & Languages
-
+### Backend & Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> DevOps & Tools
-
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=for-the-badge&logo=ccna&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" /> Design & Creative
-
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30" /> Networking & Infrastructure
-
+### Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-007FFF?style=for-the-badge&logo=dependabot&logoColor=white)
-![D-Link](https://img.shields.io/badge/D--Link-FFB900?style=for-the-badge&logo=d-link&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
 </div>
 
-<!-- ========================= -->
-<!-- 📜 GITHUB Certif -->
-<!-- ========================= -->
-
 <div align="center">
 
-# Certifications
- Certifications
-
-| Certification | Organisation | Statut |
-|--------------|--------------|--------|
-| ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ⏛ En cours |
-| ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | ⏛ En cours |
-
-</div>
-
-<!-- ========================= -->
-<!-- 📊 GITHUB STATS -->
-<!-- ========================= -->
-
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" /> GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juyuroto&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Juyuroto&theme=dark&hide_border=true&background=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juyuroto&theme=dark&hide_border=true&layout=compact&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyuroto&theme=github-dark&bg_color=161b22&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" />
-
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Juyuroto&color=2d333b&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-200+-3d444d?style=for-the-badge&logo=git&logoColor=white)
-![Projects](https://img.shields.io/badge/Projets%20terminés-5+-444c56?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Learning](https://img.shields.io/badge/En%20apprentissage-Kubernetes%20%7C%20Ansible-4d5663?style=for-the-badge&logo=continente&logoColor=white)
-
-</div>
-
-<!-- ========================= -->
-<!-- 🚀 PROJETS PHARES -->
-<!-- ========================= -->
-
-<div align="center">
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> Projets Phares
-
-</div>
-
-<table align="center" width="100%">
-
-<!-- ROW 1 -->
-<tr>
-<td width="50%" valign="top">
-
-### Web Hosting Portfolio
-
-![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
-
-Portfolio personnel avec hébergement personnalisé et configuration Apache
-
-**Tech Stack :**
-
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-<a href="https://github.com/Juyuroto/web-hosting-portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=web-hosting-portfolio&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### To-Do List
-
-![Status](https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
-
-Application React moderne avec gestion d'état et interface responsive
-
-**Tech Stack :**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<a href="https://github.com/Juyuroto/To-Do-List">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=To-Do-List&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-</tr>
-
-<!-- ROW 2 -->
-<tr>
-<td width="50%" valign="top">
-
-### CloudVault
-
-![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
-
-Solution de stockage cloud sécurisée avec chiffrement et interface moderne
-
-**Tech Stack :**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-
-<a href="https://github.com/Juyuroto/CloudVault">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=CloudVault&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Linux Fundamentals
-
-![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
-
-Documentation système et scripts d'administration Linux
-
-**Tech Stack :**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-<a href="https://github.com/Juyuroto/Linux-Fundamentals">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Linux-Fundamentals&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-</tr>
-
-<!-- ROW 3 -->
-<tr>
-<td width="50%" valign="top">
-
-### HP ProLiant DL380p Gen8
-
-![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
-
-Guide de mise à jour BIOS & firmware serveur
-
-**Tech Stack :**
-
-![HP](https://img.shields.io/badge/HP-0096D6?style=flat-square&logo=hp&logoColor=white)
-![Server](https://img.shields.io/badge/Server-FF6F00?style=flat-square&logo=serverfault&logoColor=white)
-![BIOS](https://img.shields.io/badge/BIOS-121011?style=flat-square&logo=hack-the-box&logoColor=white)
-
-<a href="https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Update-HP-Proliant-DL380p-Gen8&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Python Projects Hub
-
-![Status](https://img.shields.io/badge/Status-En%20cours-fbbc04?style=flat-square&logo=progress&logoColor=black)
-
-Collection de projets Python (scripts, mini-apps, automatisation)
-
-**Tech Stack :**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-<a href="https://github.com/Juyuroto/Python-Projects-Hub">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Python-Projects-Hub&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-</tr>
-
-<!-- ROW 4 -->
-<tr>
-<td width="50%" valign="top">
-
-### Zsh Setup Guide (Debian)
-
-![Status](https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
-
-Configuration complète de Zsh pour Debian
-
-**Tech Stack :**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
-<a href="https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Juyuroto&repo=Zsh-Setup-Guide-for-Debian&theme=dark&bg_color=161b22&title_color=ffffff&icon_color=58a6ff" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Prochain Projet
-
-![Status](https://img.shields.io/badge/Status-En%20préparation-6f42c1?style=flat-square&logo=rocket&logoColor=white)
-
-En cours de développement…
-
-**Tech Stack à venir :**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-<br/><br/>
-<img src="https://img.shields.io/badge/Coming%20Soon-2d333b?style=for-the-badge" />
-
-</td>
-</tr>
-
+## Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/cisco-logo.png" width="60" alt="Cisco"/><br/>
+      <b>Cisco CCNA</b><br/>
+      <sub><i>En cours</i></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/microsoft.png" width="60" alt="Microsoft"/><br/>
+      <b>Azure Fundamentals</b><br/>
+      <sub><i>En cours</i></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/google-logo.png" width="60" alt="Google Cloud"/><br/>
+      <b>Cloud Digital Leader</b><br/>
+      <sub><i>En cours</i></sub>
+    </td>
+  </tr>
 </table>
 
+</div>
+
+<div align="center">
+
+# Projets Phares
+
+<table align="center" width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/logo.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>To-Do List</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p><b>Description :</b> Une application web interactive développée avec React pour la gestion des tâches quotidiennes. Elle intègre une gestion d'état fluide pour une expérience utilisateur optimale.</p>
+      <a href="https://github.com/Juyuroto/To-Do-List">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/CloudVault.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>CloudVault</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p><b>Description :</b> Solution de stockage cloud sécurisée. Ce projet se concentre sur la sécurité des données et une interface intuitive sous React pour l'administration des fichiers distants.</p>
+      <a href="https://github.com/Juyuroto/CloudVault">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/Tux.svg.png" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>Commandes Linux</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p><b>Description :</b> Guide interactif et aide-mémoire complet pour les administrateurs systèmes. Développé en React, il permet de naviguer rapidement dans les fondamentaux du terminal Linux.</p>
+      <a href="https://github.com/Juyuroto/Linux-Fundamentals">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg//CodeChat.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>CodeChat-Random</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p><b>Description :</b> Application de messagerie instantanée aléatoire utilisant React. L'objectif est de permettre des échanges fluides en temps réel entre utilisateurs connectés.</p>
+      <a href="https://github.com/Juyuroto/CodeChat-Random">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/fluency/96/server.png" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>Web-Hosting</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-DevOps-white?style=flat-square" />
+      </p>
+      <p><b>Description :</b> Projet d'infrastructure visant à automatiser l'hébergement web. Focus sur la mise en place de serveurs scalables et la gestion automatisée des déploiements.</p>
+      <a href="https://github.com/Juyuroto/Web-Hosting">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+# Tutoriels & Guides
+
+| Guide | Statut | Description |
+|:---|:---:|:---|
+| [OpenVPN-PFsense](https://github.com/Juyuroto/OpenVPN-PFsense) | ✅ | Configuration VPN sécurisé |
+| [CertManager-Bugfix](https://github.com/Juyuroto/pfsense-2.8.1-certmanager-bug-fix) | ✅ | Correctif du bug sur pfSense 2.8.1 |
+| [Setup-Fedora](https://github.com/Juyuroto/Setup-Fedora) | ✅ | Installation propre Fedora |
+| [Zsh-Setup-Debian](https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian) | ✅ | Config shell Zsh |
+| [Update-HP-Proliant](https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8) | 🟡 | Mise à jour BIOS/Firmware |
+
+<small>✅ : Terminé | 🟡 : En cours</small>
+
+</div>
+
+---
 
 <div align="center">
 
