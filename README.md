@@ -51,6 +51,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
@@ -64,6 +65,8 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=internet-computer&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-0A66C2?style=for-the-badge&logo=openvpn&logoColor=white)
+![Server Administration](https://img.shields.io/badge/Server_Administration-4B5563?style=for-the-badge&logo=serverfault&logoColor=white)
 
 </div>
 
@@ -74,17 +77,17 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/cisco-logo.png" width="60" alt="Cisco"/><br/>
+      <img src="/svg/cisco.svg" width="60" alt="Cisco"/><br/>
       <b>Cisco CCNA</b><br/>
       <sub><i>En cours</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/microsoft.png" width="60" alt="Microsoft"/><br/>
+      <img src="/svg/azure.svg" width="60" alt="Microsoft"/><br/>
       <b>Azure Fundamentals</b><br/>
       <sub><i>En cours</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/google-logo.png" width="60" alt="Google Cloud"/><br/>
+      <img src="/svg/google-cloud.svg" width="60" alt="Google Cloud"/><br/>
       <b>Cloud Digital Leader</b><br/>
       <sub><i>En cours</i></sub>
     </td>
