@@ -109,7 +109,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>To-Do List</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Tech-Full_Stack-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Une application web interactive développée avec React pour la gestion des tâches quotidiennes. Elle intègre une gestion d'état fluide pour une expérience utilisateur optimale.</p>
       <a href="https://github.com/Juyuroto/To-Do-List">- Voir le projet sur GitHub</a>
@@ -123,7 +123,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>CloudVault</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Solution de stockage cloud sécurisée. Ce projet se concentre sur la sécurité des données et une interface intuitive sous React pour l'administration des fichiers distants.</p>
       <a href="https://github.com/Juyuroto/CloudVault">- Voir le projet sur GitHub</a>
@@ -137,7 +137,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>Commandes Linux</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Tech-Admin_Systeme-4B5563?style=flat-square" />
       </p>
       <p><b>Description :</b> Guide interactif et aide-mémoire complet pour les administrateurs systèmes. Développé en React, il permet de naviguer rapidement dans les fondamentaux du terminal Linux.</p>
       <a href="https://github.com/Juyuroto/Linux-Fundamentals">- Voir le projet sur GitHub</a>
@@ -151,7 +151,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>CodeChat-Random</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Tech-Full_Stack-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Application de messagerie instantanée aléatoire utilisant React. L'objectif est de permettre des échanges fluides en temps réel entre utilisateurs connectés.</p>
       <a href="https://github.com/Juyuroto/CodeChat-Random">- Voir le projet sur GitHub</a>
@@ -165,10 +165,24 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>Web-Hosting</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-DevOps-white?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Projet d'infrastructure visant à automatiser l'hébergement web. Focus sur la mise en place de serveurs scalables et la gestion automatisée des déploiements.</p>
       <a href="https://github.com/Juyuroto/Web-Hosting">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg//password.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>Web-Hosting</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
+      </p>
+      <p><b>Description :</b> Lockbox est un gestionnaire de mots de passe open-source et auto-hébergé, conçu pour ceux qui veulent garder le contrôle total de leurs données sensibles.</p>
+      <a href="https://github.com/Juyuroto/Password-manager">- Voir le projet sur GitHub</a>
     </td>
   </tr>
 </table>
@@ -182,6 +196,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 | Guide | Statut | Description |
 |:---|:---:|:---|
 | [OpenVPN-PFsense](https://github.com/Juyuroto/OpenVPN-PFsense) | ✅ | Configuration VPN sécurisé |
+| [OpenVPN-PFsense-Proxmox](https://github.com/Juyuroto/Homelab-guest-vpn) | ✅ | Utilisateur Guest Proxmox avec VPN Limité |
 | [CertManager-Bugfix](https://github.com/Juyuroto/pfsense-2.8.1-certmanager-bug-fix) | ✅ | Correctif du bug sur pfSense 2.8.1 |
 | [Setup-Fedora](https://github.com/Juyuroto/Setup-Fedora) | ✅ | Installation propre Fedora |
 | [Zsh-Setup-Debian](https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian) | ✅ | Config shell Zsh |
