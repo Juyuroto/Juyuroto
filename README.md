@@ -176,7 +176,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <img src="/svg//password.svg" width="100" />
     </td>
     <td width="70%" align="left">
-      <h3>Web-Hosting</h3>
+      <h3>Mdps Lockbox</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
         <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
