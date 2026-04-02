@@ -178,7 +178,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
     <td width="70%" align="left">
       <h3>Mdps Lockbox</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
+        <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Lockbox est un gestionnaire de mots de passe open-source et auto-hébergé, conçu pour ceux qui veulent garder le contrôle total de leurs données sensibles.</p>
