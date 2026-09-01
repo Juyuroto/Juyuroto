@@ -103,16 +103,28 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <table align="center" width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="/svg/logo.svg" width="100" />
+      <img src="/svg/no-image.svg" width="100" />
     </td>
     <td width="70%" align="left">
-      <h3>To-Do List</h3>
+      <h3>Jarvis-Tor</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Full_Stack-7C3AED?style=flat-square" />
       </p>
-      <p><b>Description :</b> Une application web interactive développée avec React pour la gestion des tâches quotidiennes. Elle intègre une gestion d'état fluide pour une expérience utilisateur optimale.</p>
-      <a href="https://github.com/Juyuroto/To-Do-List">- Voir le projet sur GitHub</a>
+      <p><b>Description :</b> Jarvis-Tor est un système d'automatisation en arrière-plan basé sur Python, Docker et un LLM local (Ollama).</p>
+      <a href="https://github.com/Juyuroto/Jarvis-Tor">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/eyes.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>Argus</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
+      </p>
+      <p><b>Description :</b> Bientôt dispo..</p>
+      <a href="https://github.com/Juyuroto/Argus">- Voir le projet sur GitHub</a>
     </td>
   </tr>
   <tr>
@@ -123,7 +135,6 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <h3>CloudVault</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Solution de stockage cloud sécurisée. Ce projet se concentre sur la sécurité des données et une interface intuitive sous React pour l'administration des fichiers distants.</p>
       <a href="https://github.com/Juyuroto/CloudVault">- Voir le projet sur GitHub</a>
@@ -131,27 +142,12 @@ Je construis des solutions efficaces qui allient développement et opérations.
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="/svg/Tux.svg.png" width="100" />
-    </td>
-    <td width="70%" align="left">
-      <h3>Commandes Linux</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Admin_Systeme-4B5563?style=flat-square" />
-      </p>
-      <p><b>Description :</b> Guide interactif et aide-mémoire complet pour les administrateurs systèmes. Développé en React, il permet de naviguer rapidement dans les fondamentaux du terminal Linux.</p>
-      <a href="https://github.com/Juyuroto/Linux-Fundamentals">- Voir le projet sur GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <img src="/svg//CodeChat.svg" width="100" />
+      <img src="/svg/CodeChat.svg" width="100" />
     </td>
     <td width="70%" align="left">
       <h3>CodeChat-Random</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Full_Stack-7C3AED?style=flat-square" />
       </p>
       <p><b>Description :</b> Application de messagerie instantanée aléatoire utilisant React. L'objectif est de permettre des échanges fluides en temps réel entre utilisateurs connectés.</p>
       <a href="https://github.com/Juyuroto/CodeChat-Random">- Voir le projet sur GitHub</a>
@@ -159,30 +155,28 @@ Je construis des solutions efficaces qui allient développement et opérations.
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="https://img.icons8.com/fluency/96/server.png" width="100" />
+      <img src="/svg/no-image.svg" width="100" />
     </td>
     <td width="70%" align="left">
-      <h3>Web-Hosting</h3>
+      <h3>Lockbox</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" />
       </p>
-      <p><b>Description :</b> Projet d'infrastructure visant à automatiser l'hébergement web. Focus sur la mise en place de serveurs scalables et la gestion automatisée des déploiements.</p>
-      <a href="https://github.com/Juyuroto/Web-Hosting">- Voir le projet sur GitHub</a>
+      <p><b>Description :</b> Lockbox est un gestionnaire de mots de passe, conçu pour ceux qui veulent garder le contrôle total de leurs données sensibles.</p>
+      <a href="https://github.com/Juyuroto/Password-manager">- Voir le projet sur GitHub</a>
     </td>
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="/svg//password.svg" width="100" />
+      <img src="/svg/no-image.svg" width="100" />
     </td>
     <td width="70%" align="left">
-      <h3>Web-Hosting</h3>
+      <h3>Lokia</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
-        <img src="https://img.shields.io/badge/Tech-Full_Stack_%2B_DevOps-7C3AED?style=flat-square" />
       </p>
-      <p><b>Description :</b> Lockbox est un gestionnaire de mots de passe open-source et auto-hébergé, conçu pour ceux qui veulent garder le contrôle total de leurs données sensibles.</p>
-      <a href="https://github.com/Juyuroto/Password-manager">- Voir le projet sur GitHub</a>
+      <p><b>Description :</b> Lokia est une interface de chat IA construite sur Ollama, avec historique de conversation, support d'images, analyse de code et intégration d'APIs externes.</p>
+      <a href="https://github.com/Juyuroto/Lokia">- Voir le projet sur GitHub</a>
     </td>
   </tr>
 </table>
