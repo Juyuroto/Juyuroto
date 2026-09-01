@@ -180,6 +180,19 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <a href="https://github.com/Juyuroto/Lokia">- Voir le projet sur GitHub</a>
     </td>
   </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/no-image.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
+      <h3>Bot-Tester</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
+      </p>
+      <p><b>Description :</b> Bot générique de lancement de tests, avec interface web, hébergé sur un conteneur LXC Proxmox.</p>
+      <a href="https://github.com/Juyuroto/Bot-Tester">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -194,8 +207,13 @@ Je construis des solutions efficaces qui allient développement et opérations.
 | [OpenVPN-PFsense-Proxmox](https://github.com/Juyuroto/Homelab-guest-vpn) | ✅ | Utilisateur Guest Proxmox avec VPN Limité |
 | [CertManager-Bugfix](https://github.com/Juyuroto/pfsense-2.8.1-certmanager-bug-fix) | ✅ | Correctif du bug sur pfSense 2.8.1 |
 | [Setup-Fedora](https://github.com/Juyuroto/Setup-Fedora) | ✅ | Installation propre Fedora |
+| [Command-Linux](https://github.com/Juyuroto/Command-Linux) | ✅ | Service Docker pour trouver les différentes commandes Linux |
+| [Command-Docker](https://github.com/Juyuroto/Command-Docker) | ✅ | Service Docker pour trouver les différentes commandes Docker |
+| [Command-SQL](https://github.com/Juyuroto/Command-SQL) | ✅ | Service Docker pour trouver les différentes commandes SQL |
 | [Zsh-Setup-Debian](https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian) | ✅ | Config shell Zsh |
 | [Update-HP-Proliant](https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8) | 🟡 | Mise à jour BIOS/Firmware |
+| [Knowledge-Base](https://github.com/Juyuroto/Knowledge-Base) | 🟡 | Fix des problèmes sur différentes sections |
+| [Sad-Server-Solution](https://github.com/Juyuroto/Sad-Server-Solution) | 🟡 | Solution de scenario SadServer |
 
 <small>✅ : Terminé | 🟡 : En cours</small>
 
