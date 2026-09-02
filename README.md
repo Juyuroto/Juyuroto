@@ -211,6 +211,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 | [Command-Docker](https://github.com/Juyuroto/Command-Docker) | ✅ | Service Docker pour trouver les différentes commandes Docker |
 | [Command-SQL](https://github.com/Juyuroto/Command-SQL) | ✅ | Service Docker pour trouver les différentes commandes SQL |
 | [Zsh-Setup-Debian](https://github.com/Juyuroto/Zsh-Setup-Guide-for-Debian) | ✅ | Config shell Zsh |
+| [Custom-MOTD](https://github.com/Juyuroto/Custom-MOTD) | ✅ | Modifier le message de bienvenue lors de la connexion |
 | [Update-HP-Proliant](https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8) | 🟡 | Mise à jour BIOS/Firmware |
 | [Knowledge-Base](https://github.com/Juyuroto/Knowledge-Base) | 🟡 | Fix des problèmes sur différentes sections |
 | [Sad-Server-Solution](https://github.com/Juyuroto/Sad-Server-Solution) | 🟡 | Solution de scenario SadServer |
