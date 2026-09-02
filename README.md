@@ -215,6 +215,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 | [Update-HP-Proliant](https://github.com/Juyuroto/Update-HP-Proliant-DL380p-Gen8) | 🟡 | Mise à jour BIOS/Firmware |
 | [Knowledge-Base](https://github.com/Juyuroto/Knowledge-Base) | 🟡 | Fix des problèmes sur différentes sections |
 | [Sad-Server-Solution](https://github.com/Juyuroto/Sad-Server-Solution) | 🟡 | Solution de scenario SadServer |
+| [Overthewire-Solution](https://github.com/Juyuroto/Overthewire-Solution) | 🟡 | Solution de scenario Overthewire |
 
 <small>✅ : Terminé | 🟡 : En cours</small>
 
