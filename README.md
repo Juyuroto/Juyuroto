@@ -107,12 +107,12 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <img src="/svg/no-image.svg" width="100" />
     </td>
     <td width="70%" align="left">
-      <h3>Jarvis-Tor</h3>
+      <h3>CineBrain</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Terminé-2ea043?style=flat-square" /> 
       </p>
-      <p><b>Description :</b> Jarvis-Tor est un système d'automatisation en arrière-plan basé sur Python, Docker et un LLM local (Ollama).</p>
-      <a href="https://github.com/Juyuroto/Jarvis-Tor">- Voir le projet sur GitHub</a>
+      <p><b>Description :</b> CineBrain est un écosystème qui combine Jellyfin et un pipeline de recherche/téléchargement automatisé </p>
+      <a href="https://github.com/Juyuroto/CineBrain">- Voir le projet sur GitHub</a>
     </td>
   </tr>
   <tr>
