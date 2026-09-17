@@ -159,6 +159,19 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <img src="/svg/no-image.svg" width="100" />
     </td>
     <td width="70%" align="left">
+      <h3>Work-tracking</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Bientôt-6f42c1?style=flat-square" /> 
+      </p>
+      <p><b>Description :</b> Système de suivi de stage ou alternance </p>
+      <a href="https://github.com/Juyuroto/Work-tracking">- Voir le projet sur GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="/svg/no-image.svg" width="100" />
+    </td>
+    <td width="70%" align="left">
       <h3>Lockbox</h3>
       <p>
         <img src="https://img.shields.io/badge/Status-En_Cours-fbbc04?style=flat-square" />
