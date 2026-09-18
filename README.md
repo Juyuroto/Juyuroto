@@ -73,6 +73,11 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Server Administration](https://img.shields.io/badge/Server_Administration-4B5563?style=for-the-badge&logo=serverfault&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
 
+### Gestion de projet & Design
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <div align="center">
