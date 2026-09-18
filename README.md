@@ -87,17 +87,17 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="/svg/cisco.svg" width="60" alt="Cisco"/><br/>
+      <img src="/svg/Cisco-CCNA.png" width="100" alt="Cisco CCNA: Introduction to Networks"/><br/>
       <b>Cisco CCNA</b><br/>
       <sub><i>En cours</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="/svg/azure.svg" width="60" alt="Microsoft"/><br/>
+      <img src="/svg/Azure-Fundamentals.png" width="100" alt="Microsoft"/><br/>
       <b>Azure Fundamentals</b><br/>
       <sub><i>En cours</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="/svg/google-cloud.svg" width="60" alt="Google Cloud"/><br/>
+      <img src="/svg/Google-CloudDigitalLeader.png" width="100" alt="Google Cloud"/><br/>
       <b>Cloud Digital Leader</b><br/>
       <sub><i>En cours</i></sub>
     </td>
