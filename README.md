@@ -73,6 +73,11 @@ Je construis des solutions efficaces qui allient développement et opérations.
 ![Server Administration](https://img.shields.io/badge/Server_Administration-4B5563?style=for-the-badge&logo=serverfault&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
 
+### Gestion de projet & Design
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <div align="center">
@@ -82,19 +87,19 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="/svg/cisco.svg" width="60" alt="Cisco"/><br/>
+      <img src="/svg/Cisco-CCNA.png" width="100" alt="Cisco CCNA: Introduction to Networks"/><br/>
       <b>Cisco CCNA</b><br/>
-      <sub><i>En cours</i></sub>
+      <sub><i>90%</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="/svg/azure.svg" width="60" alt="Microsoft"/><br/>
+      <img src="/svg/Azure-Fundamentals.png" width="100" alt="Microsoft"/><br/>
       <b>Azure Fundamentals</b><br/>
-      <sub><i>En cours</i></sub>
+      <sub><i>0%</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="/svg/google-cloud.svg" width="60" alt="Google Cloud"/><br/>
+      <img src="/svg/Google-CloudDigitalLeader.png" width="100" alt="Google Cloud"/><br/>
       <b>Cloud Digital Leader</b><br/>
-      <sub><i>En cours</i></sub>
+      <sub><i>45%</i></sub>
     </td>
   </tr>
 </table>
