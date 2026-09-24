@@ -178,7 +178,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
   </tr>
   <tr>
     <td width="30%" align="center">
-      <img src="/svg/no-image.svg" width="100" />
+      <img src="/svg/lockbox.svg" width="100" />
     </td>
     <td width="70%" align="left">
       <h3>Lockbox</h3>
