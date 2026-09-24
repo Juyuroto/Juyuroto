@@ -99,7 +99,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
     <td align="center" width="200">
       <img src="/svg/Google-CloudDigitalLeader.png" width="100" alt="Google Cloud"/><br/>
       <b>Cloud Digital Leader</b><br/>
-      <sub><i>45%</i></sub>
+      <sub><i>85%</i></sub>
     </td>
   </tr>
 </table>
