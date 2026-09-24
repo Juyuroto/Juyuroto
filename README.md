@@ -108,7 +108,7 @@ Je construis des solutions efficaces qui allient développement et opérations.
 <table align="center" width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="/svg/no-image.svg" width="100" />
+      <img src="/svg/CineBrain.svg" width="100" />
     </td>
     <td width="70%" align="left">
       <h3>CineBrain</h3>
