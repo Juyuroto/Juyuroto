@@ -28,6 +28,16 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 <div align="center">
 
+# Entreprise
+
+<img src="/svg/Logo_SafOps.svg" width="100" alt="SafOps"/><br/>
+<b>SafOps</b><br/>
+<sub><i>Fondateur</i></sub>
+
+</div>
+
+<div align="center">
+
 # Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QpwP9f7q)
