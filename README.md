@@ -30,7 +30,9 @@ Je construis des solutions efficaces qui allient développement et opérations.
 
 # Entreprise
 
-<img src="/svg/Logo_SafOps.svg" width="100" alt="SafOps"/><br/>
+<a href="https://safops.fr" target="_blank">
+  <img src="/svg/Logo_SafOps.svg" width="100" alt="SafOps"/>
+</a><br/>
 <b>SafOps</b><br/>
 <sub><i>Fondateur</i></sub>
 
