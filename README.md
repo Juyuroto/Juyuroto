@@ -102,14 +102,14 @@ Je construis des solutions efficaces qui allient développement et opérations.
       <sub><i>90%</i></sub>
     </td>
     <td align="center" width="200">
-      <img src="/svg/Azure-Fundamentals.png" width="100" alt="Microsoft"/><br/>
-      <b>Azure Fundamentals</b><br/>
+      <img src="/svg/AWS-AcademyCloudFoundations.png" width="100" alt="AWS"/><br/>
+      <b>AWS Academy Cloud Foundations</b><br/>
       <sub><i>0%</i></sub>
     </td>
     <td align="center" width="200">
       <img src="/svg/Google-CloudDigitalLeader.png" width="100" alt="Google Cloud"/><br/>
       <b>Cloud Digital Leader</b><br/>
-      <sub><i>85%</i></sub>
+      <sub><i>100%</i></sub>
     </td>
   </tr>
 </table>
